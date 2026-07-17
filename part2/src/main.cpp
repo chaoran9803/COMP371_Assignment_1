@@ -1,8 +1,10 @@
 #include <iostream>
 #include "point.h"
 #include "triangle.h"
+#include <vector>
 
 void showDemo();
+int randNum();
 
 int main() {
   
@@ -29,24 +31,24 @@ void showDemo() {
 	std::cout << "The value of p4= "<< in_4 << " Translating demoPoints p4 with d=" << d_1 << " the axis = " << in_4 << " the output is " << demoPoints.translate(d_1, 'q') << "\n";
 	
 	std::cout << " Display points ";
-	demoPoints.displayPointi();
+	demoPoints.displayPoint();
 	
 	std::cout << "\n========Triangle=========";
 	//Random number generator from 0-100
-	for(int i =0; i < 12; i++) {
-
-	}
+		
 	Triangle* triangle;
-        Point p1(2,3,4);
-        Point p2(4,5,6);
-        Point p3(9,8,5);
+        Point v1(randNum(),randNum(),randNum()), v2(randNum(),randNum(),randNum()), v3(randNum(),randNum(),randNum());
  
  
-       std::cout << "\nUsing points"
-       triangle = new Triangle(&p1,&p2,&p3);
+       std::cout << "\nUsing points";
+       triangle = new Triangle(&v1,&v2,&v3);
        triangle->displayPoint();	
 
 }
 
 
+int randNum(){
+	srand(time(NULL));
+	return (rand() + 100) + 1;
 
+}
