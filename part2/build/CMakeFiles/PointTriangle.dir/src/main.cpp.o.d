@@ -1,5 +1,5 @@
 CMakeFiles/PointTriangle.dir/src/main.cpp.o: \
- /home/mcjolly/COMP371/COMP371_Assignment_1/part2/src/main.cpp \
+ /home/kasynx/Concordia-Courses/COMP371/Assignments/COMP371_Assignment_1/part2/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -145,5 +145,5 @@ CMakeFiles/PointTriangle.dir/src/main.cpp.o: \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
  /usr/include/c++/13/bits/istream.tcc \
- /home/mcjolly/COMP371/COMP371_Assignment_1/part2/include/point.h \
- /home/mcjolly/COMP371/COMP371_Assignment_1/part2/include/triangle.h
+ /home/kasynx/Concordia-Courses/COMP371/Assignments/COMP371_Assignment_1/part2/include/point.h \
+ /home/kasynx/Concordia-Courses/COMP371/Assignments/COMP371_Assignment_1/part2/include/triangle.h

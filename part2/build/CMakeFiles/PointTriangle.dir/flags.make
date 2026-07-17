@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/mcjolly/COMP371/COMP371_Assignment_1/part2/include
+CXX_INCLUDES = -I/home/kasynx/Concordia-Courses/COMP371/Assignments/COMP371_Assignment_1/part2/include
 
 CXX_FLAGS = -std=gnu++14
 

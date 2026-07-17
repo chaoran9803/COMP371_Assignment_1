@@ -1,7 +1,7 @@
 CMakeFiles/PointTriangle.dir/src/point.cpp.o: \
- /home/mcjolly/COMP371/COMP371_Assignment_1/part2/src/point.cpp \
+ /home/kasynx/Concordia-Courses/COMP371/Assignments/COMP371_Assignment_1/part2/src/point.cpp \
  /usr/include/stdc-predef.h \
- /home/mcjolly/COMP371/COMP371_Assignment_1/part2/include/point.h \
+ /home/kasynx/Concordia-Courses/COMP371/Assignments/COMP371_Assignment_1/part2/include/point.h \
  /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
