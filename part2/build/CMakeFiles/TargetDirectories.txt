@@ -1,0 +1,3 @@
+/home/mcjolly/COMP371/COMP371_Assignment_1/part2/build/CMakeFiles/PointTriangle.dir
+/home/mcjolly/COMP371/COMP371_Assignment_1/part2/build/CMakeFiles/edit_cache.dir
+/home/mcjolly/COMP371/COMP371_Assignment_1/part2/build/CMakeFiles/rebuild_cache.dir
