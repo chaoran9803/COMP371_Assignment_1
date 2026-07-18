@@ -60,7 +60,7 @@ void showDemo() {
         std::cout << "The value of p2=" << p2<< " Translating demoPoints p2 with d=" << d_1 << " the axis = " << in_2 << " the output is " << demoPoints.translate(d_1, in_2) << "\n";
         std::cout << "The value of p3= "<< p3<< " Translating demoPoints p3 with d=" << d_1 << " the axis = " << in_3 << " the output is " << demoPoints.translate(d_1, in_3) << "\n";
 
-        std::cout << "\nDemonstrate if axis is not x or y or z:\n ";
+        std::cout << "\nDemonnstrate if axis is not x or y or z:\n ";
         std::cout << "The value of p4= "<< in_4 << " Translating demoPoints p4 with d=" << d_1 << " the axis = " << in_4 << " the output is\n " << demoPoints.translate(d_1, 'q') << "\n";
 
         std::cout << "\nDisplay points\n ";
