@@ -6,8 +6,8 @@ C++ assignment for COMP371, split into two independent parts.
 
 | Part      | Topic                                     | Details                       |
 | --------- | ----------------------------------------- | ----------------------------- |
-| **part1** | Custom dynamic array in C++               | [COMP371_Assignment_1/blob/main/part1/READ.md](part1/README.md) |
-| **part2** | 3D Points & Triangles using OOP           | [part2/README.md](part2/README.md) |
+| **part1** | Custom dynamic array in C++               | [part1/README.md]([[part1/README.md](https://github.com/chaoran9803/COMP371_Assignment_1/blob/main/part1/READ.md) |
+| **part2** | 3D Points & Triangles using OOP           | [part2/README.md](https://github.com/chaoran9803/COMP371_Assignment_1/blob/main/part2/READ.md) |
 
 `pt1_pt2_outputs/` holds sample program output for both parts.
 
