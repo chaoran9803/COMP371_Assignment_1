@@ -21,6 +21,7 @@ Point* Triangle::getP2() const {
 
 Point* Triangle::getP3() const{
 	return p3;
+
 }
 
 //Translate: move the whole triangle by d along the given axis
