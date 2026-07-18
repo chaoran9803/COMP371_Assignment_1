@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/PointTriangle.dir/src/main.cpp.o CMakeFiles/PointTriangle.dir/src/point.cpp.o CMakeFiles/PointTriangle.dir/src/triangle.cpp.o -o PointTriangle 
