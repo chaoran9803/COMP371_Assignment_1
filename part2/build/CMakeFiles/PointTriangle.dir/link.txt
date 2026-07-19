@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\PointTriangle.dir/objects.a
+C:\Users\chaor\AppData\Local\Microsoft\WinGet\Packages\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\mingw64\bin\ar.exe qc CMakeFiles\PointTriangle.dir/objects.a @CMakeFiles\PointTriangle.dir\objects1.rsp
+C:\Users\chaor\AppData\Local\Microsoft\WinGet\Packages\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\PointTriangle.dir/objects.a -Wl,--no-whole-archive -o PointTriangle.exe -Wl,--out-implib,libPointTriangle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PointTriangle.dir\linkLibs.rsp
