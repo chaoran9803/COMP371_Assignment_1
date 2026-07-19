@@ -6,6 +6,8 @@ class arrayFunction
 public:
     arrayFunction(); // constructor
 
+    ~arrayFunction(); // destructor
+
     int createArray(int size, int *&arr);
 
     void initializeArray(int *arr, int size);

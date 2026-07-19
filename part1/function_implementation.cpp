@@ -7,6 +7,11 @@ arrayFunction::arrayFunction()
     // constructor
 }
 
+arrayFunction::~arrayFunction()
+{
+    // destructor
+}
+
 int arrayFunction::createArray(int size, int *&arr)
 {
     arr = new int[size];
