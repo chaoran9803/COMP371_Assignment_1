@@ -4,7 +4,7 @@
 class arrayFunction
 {
 public:
-    arrayFunction();
+    arrayFunction(); // constructor
 
     int createArray(int size, int *&arr);
 

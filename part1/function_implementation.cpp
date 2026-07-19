@@ -17,7 +17,7 @@ void arrayFunction::initializeArray(int *arr, int size)
 {
     for (int i = 0; i < size; i++)
     {
-        arr[i] = i + 1;
+        arr[i] = i; // initialize array with values 0 to size-1
     }
 }
 
@@ -27,7 +27,7 @@ void arrayFunction::printArray(int *arr, int size)
     {
         cout << "Array is empty or not initialized." << endl;
         return;
-    }
+    } // check if the array is empty or not initialized
     for (int i = 0; i < size; i++)
     {
         cout << arr[i] << " " << endl;
